@@ -1,0 +1,65 @@
+.c-iCDrnV {
+    display: flex;
+    flex-shrink: 0;
+    align-items: center;
+    height: var(--sizes-lg);
+    padding: 0 var(--space-4) 0 var(--space-5);
+    background-color: black;
+    box-shadow: 0 1px 2px var(--shadows-shadow16);
+}
+
+.c-dzcdPv.vfrc-button.c-jjMiVY.vfrc-button--primary.c-jZeVGh.c-jZeVGh-XJvOL-type-warn::after {
+    content: "Terminer le chat";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+   
+}
+
+.c-dzcdPv.vfrc-button.c-jjMiVY.vfrc-button--primary.c-jZeVGh.c-jZeVGh-XJvOL-type-warn {
+    position: relative;
+    color: transparent;
+}
+
+
+.c-dzcdPv.vfrc-button.c-jjMiVY.vfrc-button--primary.c-jZeVGh.c-jZeVGh-igaDqE-type-subtle::after {
+    content: "Annuler";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.c-dzcdPv.vfrc-button.c-jjMiVY.vfrc-button--primary.c-jZeVGh.c-jZeVGh-igaDqE-type-subtle {
+    position: relative;
+    color: transparent;
+}
+
+.vfrc-footer--watermark.c-cejRVw {
+    content: "";
+    visibility: hidden;
+}
+
+.c-bQoszf {
+ 
+    background-color:black;}
+
+    .c-bQoszf:hover, 
+.c-bQoszf:focus {
+    background-color: black;
+}
