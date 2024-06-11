@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
   build: {
-    outDir: 'build',
+    outDir: 'dist',
     rollupOptions: {
       external: [
         '/plugin/build/bundle.mjs' // Externalize this module
